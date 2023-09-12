@@ -1,4 +1,4 @@
-# Calculator
+# Calculator with PyQT5
 Calculator PYQT5, PYQT5 is library from python ! Ini adalah tugas kuliah program Python, membuat Calculator Gui menggunankan PYQT5.
 
 
